@@ -1,4 +1,6 @@
-# Moon Rider
+# mBeat.me - cyber music challenge
+
+Based on Moon Rider - https://github.com/supermedium/moonrider
 
 ![moonrider](https://user-images.githubusercontent.com/674727/54646629-e91dc600-4a5c-11e9-8a6e-91e77f28523d.jpg)
 
@@ -68,7 +70,7 @@ A-Frame and JavaScript, is doable!
 ### Test URL Parameters
 
 | URL Parameter                           | Description                                                   |
-|-----------------------------------------|---------------------------------------------------------------|
+| --------------------------------------- | ------------------------------------------------------------- |
 | ?debugcontroller={classic, punch, ride} | Show controllers and move them with shift/ctrl + {h, j, k, l} |
 | ?debugbeatpositioning={classic, punch}  | Show all notes in possible positionings.                      |
 | ?debugstate={loading, victory}          | Show loading or victory screen.                               |
